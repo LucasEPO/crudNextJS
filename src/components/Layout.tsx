@@ -1,5 +1,6 @@
 import Titulo from "./Titulo";
 
+//Exige que seja passado esses props na chamada desse componente
 interface LayoutProps {
     titulo: string;
     children: any;
